@@ -1,0 +1,5 @@
+baseURL = "https://optoel.github.io/PMP/"
+languageCode = "tr-tr"
+title = "OPTOEL MPM(Manufacturing Process Management)"
+theme = "hugo-geekdoc"
+
